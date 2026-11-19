@@ -34,3 +34,4 @@ src/
 - Backend: Firebase / Node + MongoDB for real auth (now it is localStorage demo only).
 - Real sensor data (ESP32 + DHT22) -> replace WEEK_TEMP / WEEK_HUM in `data.js`.
 - Android APK: `npm i @capacitor/core @capacitor/cli @capacitor/android`, `npx cap init`, `npm run build`, `npx cap add android`, `npx cap open android`.
+"# terra-basket" 
